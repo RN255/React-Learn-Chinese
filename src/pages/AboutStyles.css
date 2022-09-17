@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Outfit:wght@300;400;500;700;900&family=Roboto:wght@400;500;700;900&display=swap");
+
+.text,
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 10%;
+  font-size: 35px;
+}
+
+.text,
+p {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}

@@ -1,3 +1,46 @@
+
+## Project Name: Let's Learn Chinese (React)
+This is the same website I have previously created but this time it was made using React.
+
+*A website for learning basic Chinese. Users can listen to audio and follow along with the text. A translation and pronunciation guide can be revealed by clicking on a button. A 'test your knowledge' section at the bottom allows users to test their knowledge and then click or tap to reveal the answer. There are currently lessons for five different topics.*
+
+## Motivation
+I wanted to learn React.
+
+## Tech used
+- React
+
+## Project features
+- same as previous version
+  - *embedded audio*
+  - *reveal and hide translation and pronunciation guide*
+  - *word translation table*
+  - *knowledge test table*
+  - *dark theme*
+  - *fully responsive web design*
+  - *concealed pop-out menu*
+
+## Lessons learnt
+- fundamentals of React
+
+## future development
+- As with the previous version of this website there are many features that could be added
+  - *there is currently no footer section*
+  - *more lessons could be added*
+  - *I could consult other language learning websites for features this website lacks*
+- I could expand this to be more complex and increase my understanding of React
+
+## How to use
+Website is not currently live.
+
+## Screenshot
+![Let's Learn Chinese screenshot](https://github.com/RN255/Lets-Learn-Chinese-Website/blob/main/images/learnChineseScreenshot.jpg)
+
+## Standard React README
+<details>
+<summary>click to view</summary>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +111,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
+
